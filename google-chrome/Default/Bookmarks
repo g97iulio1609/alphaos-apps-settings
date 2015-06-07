@@ -1,0 +1,36 @@
+{
+   "checksum": "c16b25c0793705ad1e7f1b43ec50fbf6",
+   "roots": {
+      "bookmark_bar": {
+         "children": [ {
+            "date_added": "13078177355875201",
+            "id": "6",
+            "name": "Bookmarks",
+            "type": "url",
+            "url": "chrome://bookmarks/"
+         } ],
+         "date_added": "13078177350773740",
+         "date_modified": "13078177355875201",
+         "id": "1",
+         "name": "Barra dei Preferiti",
+         "type": "folder"
+      },
+      "other": {
+         "children": [  ],
+         "date_added": "13078177350773750",
+         "date_modified": "0",
+         "id": "2",
+         "name": "Altri Preferiti",
+         "type": "folder"
+      },
+      "synced": {
+         "children": [  ],
+         "date_added": "13078177350773751",
+         "date_modified": "0",
+         "id": "3",
+         "name": "Preferiti su disp. mobili",
+         "type": "folder"
+      }
+   },
+   "version": 1
+}
